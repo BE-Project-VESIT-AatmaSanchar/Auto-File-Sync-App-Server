@@ -22,3 +22,13 @@ tracking history on a [web-based map UI](http://file.aatmanirbhar-sanchar.live/)
 
 Code for the Map Based Tracking system is available [here](https://github.com/BE-Project-VESIT-AatmaSanchar/Map-Tracking-for-Auto-Sync-App)
 
+
+## Deployment
+
+To deploy this project please refer the following link which contains thw instructions for UBUNTU OS,CENT OS,WINDOWS 
+
+[Deployment Cookbook](https://docs.google.com/document/d/1fSwpv6ZCRhyami0U6lCNLExHZtTIIsLdNf6ZaCJpGYY/edit)
+
+
+
+
